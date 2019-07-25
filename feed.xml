@@ -3,7 +3,7 @@
     <title>Techpression</title>
     <link href="https://enhasa666.github.io/feed.xml" rel="self" />
     <link href="https://enhasa666.github.io" />
-    <updated>2019-07-25T18:47:23+08:00</updated>
+    <updated>2019-07-25T18:49:07+08:00</updated>
     <author>
         <name>Enhasa</name>
     </author>
@@ -17,16 +17,15 @@
         <link href="https://enhasa666.github.io/speeding-up-windows-10.html"/>
         <id>https://enhasa666.github.io/speeding-up-windows-10.html</id>
 
-        <updated>2019-07-25T18:47:15+08:00</updated>
+        <updated>2019-07-25T18:49:02+08:00</updated>
             <summary>
                 <![CDATA[
-                    PreambleDepending on who you ask, Windows 10 is either the best operating system to date, or the worst hunk of garbage that has ever graced their computer. It’s really not hard to see why the reception of this operating system is so polarized: Windows 10&hellip;
+                    Depending on who you ask, Windows 10 is either the best operating system to date, or the worst hunk of garbage that has ever graced their computer. It’s really not hard to see why the reception of this operating system is so polarized: Windows 10&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h2 id="mcetoc_1dgkbjon80">Preamble</h2>
-<p>Depending on who you ask, Windows 10 is either the best operating system to date, or the worst hunk of garbage that has ever graced their computer.</p>
+                <p id="mcetoc_1dgkbjon80">Depending on who you ask, Windows 10 is either the best operating system to date, or the worst hunk of garbage that has ever graced their computer.</p>
 <p>It’s really not hard to see why the reception of this operating system is so polarized: Windows 10 has brought about so many great features like multiple desktops (something Linux users has had for two decades), improved driver autodetection,  Continuum (for those with hybrid devices), a simplified/unified settings panel that helps out 10% of the time, and a bunch more I couldn’t care less about.</p>
 <p>On the flip side, Windows 10 (actually, since Windows 7) brought about forced updates and reboots, and a steady stream of additional features that, instead of helping out the user keep the system in perfect working order or assist in the most menial of tasks, hammered the operating system disk with non-essential background tasks that kept reading and writing to drive c.</p>
 <p>These updates essentially make Windows 10 unusable on systems with slow storage. 100% disk usage makes the whole desktop and every other application unresponsive as fuck, and updates either hammer the disk usage themselves while downloading or take 45 minutes to an hour to install packages. For the latter case, I even witnessed that happen at work when I was still employed at some cheapskate marketing company.</p>
